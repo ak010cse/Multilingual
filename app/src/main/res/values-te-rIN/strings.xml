@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multilingual</string>
+    <string name="hello_world">హలో వరల్డ్!</string>
+    <string name="welcome">స్వాగతం</string>
+    <string name="testing">పరీక్షిస్తోంది</string>
+    <string name="developer">డెవలపర్</string>
+    <string name="arvind_kumar">అరవింద్ కుమార్</string>
+    <string name="multi_language_demo">బహుళ భాషా డెమో</string>
+    <string name="dummy_txt">లోరెమ్ ఇప్సమ్ అనేది ప్రింటింగ్ మరియు టైప్‌సెట్టింగ్ పరిశ్రమ యొక్క డమ్మీ టెక్స్ట్. లోరెమ్ ఇప్సమ్ 1500ల నుండి పరిశ్రమ యొక్క ప్రామాణిక నకిలీ టెక్స్ట్‌గా ఉంది, తెలియని ప్రింటర్ టైప్ యొక్క గాలీని తీసుకొని టైప్ స్పెసిమెన్ పుస్తకాన్ని తయారు చేయడానికి దానిని గిలకొట్టింది.</string>
+</resources>

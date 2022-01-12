@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Multilingual</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="welcome">Welcome</string>
+    <string name="testing">Testing</string>
+    <string name="developer">Developer</string>
+    <string name="arvind_kumar">Arvind Kumar</string>
+    <string name="multi_language_demo">Multi Language Demo</string>
+    <string name="dummy_txt">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+</resources>
